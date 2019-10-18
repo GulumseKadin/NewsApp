@@ -6,3 +6,4 @@ News App ... Api : newsapi.org ... Retrofit  ... &lt; I will add searchbara and 
 
 
 ## Images
+![newsapp1](https://user-images.githubusercontent.com/28591504/67082741-6e5b8b80-f1a2-11e9-9024-26547a9ebcc4.png)
